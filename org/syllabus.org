@@ -1,0 +1,128 @@
+#+TITLE:DSC 450 Spring 2024 Syllabus
+#+AUTHOR: Marcus Birkenkrahe
+#+SUBTITLE: Independent Undergraduate Research (DSC 450) Spring 2024
+#+options: toc:nil
+#+startup: overview indent hideblocks
+* General Course Information
+
+- Meeting Times: weekly (TBD) 
+- Meeting place: Derby Science Center Room 209
+- Professor: Marcus Birkenkrahe
+- Office: Derby Science Building 210
+- Phone: (870) 307-7254 (office) / (501 422-4725 (private)
+- Office hours: Mon/Wed/Fri 10-10:50 am & 3-3.50 pm, Tue/Thu
+
+* Standard and course policies
+
+*Standard Lyon College Policies* are incorporated into this syllabus
+and can be found at: [[http://www.lyon.edu/standard-course-policies][lyon.edu/standard-course-policies]].
+
+The *Assignments and Honor Code* and the *Attendance Policy* are
+incorporated into this syllabus also and can be found at:
+[[https://tinyurl.com/LyonPolicy][tinyurl.com/LyonPolicy]].
+
+* Objectives
+
+1. Develop Advanced Analytical Skills: Enhance understanding of complex
+   data science concepts and techniques.
+2. Promote Independent Research: Foster the ability to conduct
+   self-guided, in-depth research in data science.
+3. Apply Theoretical Knowledge Practically: Translate theoretical data
+   science knowledge into practical applications and problem-solving.
+4. Critical Thinking and Analysis: Cultivate critical thinking skills
+   in analyzing and interpreting data.
+5. Communication of Data Insights: Improve skills in effectively
+   communicating complex data insights.
+6. Ethical Understanding: Develop an awareness of ethical
+   considerations in data science practices.
+7. Project Management Skills: Enhance abilities in managing a data
+   science project from conception to completion.
+8. Professional Preparedness: Prepare for professional roles in the
+   data science field.
+
+* Student Learning Outcomes
+
+Students who complete DSC 450 will be able to 
+- demonstrate proficiency in applying advanced data science methods
+  and tools.
+- Successfully complete a comprehensive research project, showcasing
+  the ability to work independently.
+- Exhibit the ability to solve complex, real-world problems using
+  data-driven approaches.
+- Clearly communicate data findings and implications to diverse
+  audiences through written reports and presentations.
+- Display an understanding of ethical issues and responsible data use
+  in their research and analyses.
+- Demonstrate the ability to effectively plan, execute, and manage a
+  data science project.
+- Show adaptability and continuous learning in response to emerging
+  data science trends and technologies.
+- Demonstrate readiness for entering the professional world of data
+  science through developed skills and knowledge.
+
+* Course requirements
+
+No formal requirements. Relevant skills for independent research are
+assumed - these skills can be obtained by completing projects in
+previous courses in any subject.
+
+Data science is an interdisciplinary field - data science research
+does not have to include programming or mathematics and statistics but
+it relies on at least beginning competence in a domain area.
+
+* Grading system
+
+| WHAT                  | WEIGHT |
+|-----------------------+--------|
+| Participation         |    25% |
+| Sprint reviews        |    25% |
+| Final Presentation    |    25% |
+| Paper/report/notebook |    25% |
+
+Notes:
+- To pass: 60% of all available points.
+- Details on the reviews, presentation and final deliverable in class.
+
+* Schedule and session content
+
+For *important dates*, and for holidays, see the 2023-2024 Academic
+Calendar at [[https://catalog.lyon.edu/202324-academic-calendar][catalog.lyon.edu]].
+
+*Schedule*:
+| WEEK | DATE       | TOPIC                          | WHO         |
+|------+------------+--------------------------------+-------------|
+|    1 | Wed 24 Jan | Introduction (IMRAD)           | All         |
+|------+------------+--------------------------------+-------------|
+|    2 | Wed 31 Jan | Journal club                   | Birkenkrahe |
+|------+------------+--------------------------------+-------------|
+|    3 | Wed 7 Feb  | 1st sprint review: proposal    | All         |
+|------+------------+--------------------------------+-------------|
+|    4 | Wed 14 Feb | Journal club                   | Durand      |
+|------+------------+--------------------------------+-------------|
+|    5 | Wed 21 Feb | Journal club                   | Lingren     |
+|------+------------+--------------------------------+-------------|
+|    6 | Wed 28 Feb | 2nd sprint review: methodology | All         |
+|------+------------+--------------------------------+-------------|
+|    7 | Wed 6 Mar  | Journal club                   | Mota        |
+|------+------------+--------------------------------+-------------|
+|    8 | Wed 13 Mar | MAC workshop (solar eclipse)   | Birkenkrahe |
+|------+------------+--------------------------------+-------------|
+|    9 | Wed 27 Mar | 3rd sprint review: results     | All         |
+|------+------------+--------------------------------+-------------|
+|   10 | Wed 3 Apr  | Journal club                   | Durand      |
+|------+------------+--------------------------------+-------------|
+|   11 | Wed 10 Apr | Journal club                   | Lingren     |
+|------+------------+--------------------------------+-------------|
+|   12 | Wed 17 Apr | Journal club                   | Mota        |
+|------+------------+--------------------------------+-------------|
+|   13 | Wed 24 Apr | Final presentation             | Durand      |
+|------+------------+--------------------------------+-------------|
+|   14 | Wed 1 May  | Final presentation             | Lingren     |
+|------+------------+--------------------------------+-------------|
+|   15 | Wed 8 May  | Final presentation             | Mota        |
+|------+------------+--------------------------------+-------------|
+
+*Workload:* approx. 5 hours per week.
+1. Class time = 15 * 1 * 50/60 = 11.25
+2. Prepare sprint reviews = 4 * 5 = 20
+3. Independent research = 15 * 3 = 45
