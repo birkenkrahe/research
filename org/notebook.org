@@ -1,0 +1,86 @@
+#+TITLE:Research Seminar 
+#+AUTHOR:Marcus Birkenkrahe
+#+SUBTITLE:CSC/DSC 450 Independent Research Lyon College Spring 2024
+#+STARTUP:overview hideblocks indent
+#+OPTIONS: toc:nil num:nil ^:nil
+* First meeting (24-Jan)
+#+ATTR_HTML: :WIDTH 400px: 
+[[../img/firstsession.png]]
+
+* Overview
+
+1. Is the time alright for you? Would 11-11:45 be better?
+2. Let's look at the syllabus and the schedule
+3. Let's hear from you: project ideas
+4. Scientific method (some heretical ideas)
+5. Journal club (31 Jan)
+
+* Your projects
+
+1. Marlon:
+   - *Anomaly* detection in medical imaging
+   - Specialised on *cancer* research
+   - Detect and classify cancer cells
+   - Start with unlabelled data
+   - Cancer research is now adopting AI
+   - It's new and theyre doing it now!
+   - I know people who're doing
+
+   Questions:
+   - Where will you get your data?
+   - National Cancer Imaging Archive
+   - Is cancer a disease or a common condition?
+   - Will I be able to convert the images (from XRay)?
+   - Got the skills to face my fears
+
+2. Pedro:
+   - Two alternatives:
+     1) Road service & monitoring quantity of signs: descriptive
+        analysis of historic data to see if there are any patterns. 
+     2) Automating road sign recognition (now done manually). Image recognition. Setting: civil engineering.
+   - Father is potential client.
+   - Leaning towards (1)
+
+   Questions:
+   - What kind of patterns are you looking for?
+   - Nobody working with the client could do it!
+   - What's the main benefit (to the client): can we make use of data science at all?
+   - What's the situation with road signs on the ground?
+   - Will be able to progress consistently?
+
+3. Braden:
+   - Sports analytics
+   - Oil and natural gas as resources (pipeline)
+   - Talk to other students who have done this
+   - Take a look at projects at kaggle.com     
+     
+
+* Scientific process (heretical remarks)
+#+ATTR_HTML: :WIDTH 400px:
+[[../img/scientific_process.png]]
+
+* Journal club
+#+ATTR_HTML: :WIDTH 400px: 
+[[../img/journalclub1.png]]
+
+1. Informal presentation of someone else's work
+2. Relevant to your research and your interests
+3. Stimulating in a positive or negative way
+
+* How to read someone else's paper   
+
+How to read at all - see [[https://github.com/birkenkrahe/org/blob/master/FAQ.org#how-should-you-read][my 2021 FAQ]].
+
+- Read a lot superficially (abstracts)
+- Read a few publications more carefully (conclusions)
+- Read very few publications very closely (everything)
+- Use AI to help you summarize (risky)
+
+* What AI thinks you should do.
+Areas of attack for your reading:
+#+ATTR_HTML: :WIDTH 400px: 
+[[../img/journalclub.png]]
+  
+* IMRaD = Introduction, Method, Results and Discussion
+#+ATTR_HTML: :WIDTH 400px:
+[[../img/IMRaD.png]]
