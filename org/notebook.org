@@ -7,7 +7,7 @@
 #+ATTR_HTML: :WIDTH 400px: 
 [[../img/firstsession.png]]
 
-* Overview
+** Overview
 
 1. Is the time alright for you? Would 11-11:45 be better?
 2. Let's look at the syllabus and the schedule
@@ -15,7 +15,7 @@
 4. Scientific method (some heretical ideas)
 5. Journal club (31 Jan)
 
-* Your projects
+** Your projects
 
 1. Marlon:
    - *Anomaly* detection in medical imaging
@@ -54,7 +54,13 @@
    - Talk to other students who have done this
    - Take a look at projects at kaggle.com     
      
-
+3. Thomas (via Email):
+   #+begin_quote
+    For my project I would like to continue my project from DSC 105
+    last semester. I was unable to get to the machine learning side. I
+    would like to some predictive analysis with baseball pitching
+    data.
+   #+end_quote
 * Scientific process (heretical remarks)
 #+ATTR_HTML: :WIDTH 400px:
 [[../img/scientific_process.png]]
