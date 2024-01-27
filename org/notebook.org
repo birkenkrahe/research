@@ -67,7 +67,7 @@
 
 * Journal club
 #+ATTR_HTML: :WIDTH 400px: 
-[[../img/journalclub1.png]]
+[[../img/journalclub2.png]]
 
 1. Informal presentation of someone else's work
 2. Relevant to your research and your interests
