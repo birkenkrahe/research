@@ -100,8 +100,8 @@ literate programming in computer and data science. In: Proceedings of the
 Conference, Valencia (Spain) March 4-6, 2024 (to appear).
 
 - [[https://iated.org/inted/][Conference site]]
-- [[https://github.com/birkenkrahe/org/blob/master/research/INTED_2024.org][Accepted abstract]]
-- Full critique
+- [[https://github.com/birkenkrahe/org/blob/master/research/INTED_2024.org][Accepted abstract]] (GitHub)
+- [[https://github.com/birkenkrahe/research/blob/main/pdf/Journal_club_31-01-2024.pdf][Full critique]] (PDF)
   
 *** Can I understand the title?
 - [[http://literateprogramming.com][literateprogramming.com]]
