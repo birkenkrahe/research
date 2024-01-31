@@ -61,11 +61,12 @@
     would like to some predictive analysis with baseball pitching
     data.
    #+end_quote
-* Scientific process (heretical remarks)
+** Scientific process (heretical remarks)
 #+ATTR_HTML: :WIDTH 400px:
 [[../img/scientific_process.png]]
 
-* Journal club
+* Second meeting (31-Jan)
+** Journal club
 #+ATTR_HTML: :WIDTH 400px: 
 [[../img/journalclub2.png]]
 
@@ -73,7 +74,7 @@
 2. Relevant to your research and your interests
 3. Stimulating in a positive or negative way
 
-* How to read someone else's paper   
+** How to read someone else's paper
 
 How to read at all - see [[https://github.com/birkenkrahe/org/blob/master/FAQ.org#how-should-you-read][my 2021 FAQ]].
 
@@ -82,11 +83,35 @@ How to read at all - see [[https://github.com/birkenkrahe/org/blob/master/FAQ.or
 - Read very few publications very closely (everything)
 - Use AI to help you summarize (risky)
 
-* What AI thinks you should do.
+** What AI thinks you should do.
 Areas of attack for your reading:
 #+ATTR_HTML: :WIDTH 400px: 
 [[../img/journalclub.png]]
   
-* IMRaD = Introduction, Method, Results and Discussion
+** IMRaD = Introduction, Method, Results and Discussion
 #+ATTR_HTML: :WIDTH 400px:
 [[../img/IMRaD.png]]
+
+** Journal Club: Birkenkrahe (2024)
+
+Reference: The role of AI coding assistants: revisiting the need for
+literate programming in computer and data science. In: Proceedings of the
+18th annual International Technology, Education and Development
+Conference, Valencia (Spain) March 4-6, 2024 (to appear).
+
+- [[https://iated.org/inted/][Conference site]]
+- [[https://github.com/birkenkrahe/org/blob/master/research/INTED_2024.org][Accepted abstract]]
+- Full critique
+  
+*** Can I understand the title?
+- [[http://literateprogramming.com][literateprogramming.com]]
+*** Who's the author?
+- [[https://lyon.edu/marcus-birkenkrahe][lyon.edu/marcus-birkenkrahe]]
+*** Is the abstract complete (IMRaD)?
+*** What's the quality of the references?
+*** First full reading
+*** What did I like best, and what not at all?
+*** What's the main message?
+*** Can I use this for anything?
+*** Final verdict
+*** What would I have done differently?
