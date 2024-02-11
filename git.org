@@ -1,0 +1,24 @@
+#+BEGIN_SRC bash
+  git config --global --unset url.https://birkenkrahe:ghp_xxx@github.com/.insteadof
+#+END_SRC
+
+#+begin_src bash :results output
+  git config -l
+#+end_src
+
+#+RESULTS:
+#+begin_example
+user.email=birkenkrahe@lyon.edu
+user.name=Marcus Birkenkrahe
+http.postbuffer=524288000
+url.https://birkenkrahe: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@github.com/.insteadof=https://github.com/
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/birkenkrahe/research.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+#+end_example
+
