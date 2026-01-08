@@ -1,6 +1,6 @@
-#+TITLE:DSC 450 Spring 2024 Syllabus
+#+TITLE:CSC/DSC 450 Spring 2026 Syllabus
 #+AUTHOR: Marcus Birkenkrahe
-#+SUBTITLE: Independent Undergraduate Research (DSC 450) Spring 2024
+#+SUBTITLE: Independent Undergraduate Research (CSC/DSC 450) Spring 2026
 #+options: toc:nil
 #+startup: overview indent hideblocks
 * General Course Information
@@ -9,8 +9,8 @@
 - Meeting place: Derby Science Center Room 209
 - Professor: Marcus Birkenkrahe
 - Office: Derby Science Building 210
-- Phone: (870) 307-7254 (office) / (501 422-4725 (private)
-- Office hours: Mon/Wed/Fri 10-10:50 am & 3-3.50 pm, Tue/Thu
+- Phone: (870) 307-7254 (office) 
+- Office hours: Mon/Wed/Fri 1500-1600, Tue/Thu 1600-1700 hrs
 
 * Standard and course policies
 
@@ -85,42 +85,28 @@ Notes:
 
 * Schedule and session content
 
-For *important dates*, and for holidays, see the 2023-2024 Academic
-Calendar at [[https://catalog.lyon.edu/202324-academic-calendar][catalog.lyon.edu]].
+For *important dates*, see the 2025-2026 Academic Calendar at:
+[[https://catalog.lyon.edu/202526-academic-calendar][catalog.lyon.edu/202526-academic-calendar]]
 
 *Schedule*:
-| WEEK | DATE       | TOPIC                        | WHO         |
-|------+------------+------------------------------+-------------|
-|    1 | Wed 24 Jan | Introduction (IMRAD)         | All         |
-|------+------------+------------------------------+-------------|
-|    2 | Wed 31 Jan | Journal club                 | Birkenkrahe |
-|------+------------+------------------------------+-------------|
-|    3 | Wed 7 Feb  | 1st sprint review: proposal  | All         |
-|------+------------+------------------------------+-------------|
-|    4 | Wed 14 Feb | Journal club                 | Durand      |
-|------+------------+------------------------------+-------------|
-|    5 | Wed 21 Feb | Journal club                 | Lingren     |
-|------+------------+------------------------------+-------------|
-|    7 | Wed 28 Feb | Journal club                 | Mota        |
-|------+------------+------------------------------+-------------|
-|    6 | Wed 6 Mar  | Journal club                 | Hendrix     |
-|------+------------+------------------------------+-------------|
-|    8 | Wed 13 Mar | MAC workshop (solar eclipse) | Birkenkrahe |
-|------+------------+------------------------------+-------------|
-|    9 | Wed 27 Mar | Journal club                 | TBC         |
-|------+------------+------------------------------+-------------|
-|   10 | Wed 3 Apr  | Journal club                 | TBC         |
-|------+------------+------------------------------+-------------|
-|   11 | Wed 10 Apr | Journal club                 | TBC         |
-|------+------------+------------------------------+-------------|
-|   12 | Wed 17 Apr | Final presentation           | Durand      |
-|------+------------+------------------------------+-------------|
-|   13 | Wed 24 Apr | Final presentation           | Lingren     |
-|------+------------+------------------------------+-------------|
-|   14 | Wed 1 May  | Final presentation           | Mota        |
-|------+------------+------------------------------+-------------|
-|   15 | Wed 8 May  | Final presentation           | Hendrix     |
-|------+------------+------------------------------+-------------|
+
+| Week | Topic                                                    |
+|------+----------------------------------------------------------|
+|    1 | Course orientation; what counts as research vs. project  |
+|    2 | Problem finding and refinement; research questions       |
+|    3 | Background study and literature review methods           |
+|    4 | Sprint Review 1: proposal (question, motivation, plan)   |
+|    5 | Methodology design: data, experiments, evaluation        |
+|    6 | Tooling and workflow: version control, reproducibility   |
+|    7 | Early implementation / pilot study                       |
+|    8 | Sprint Review 2: progress, failures, scope adjustment    |
+|    9 | Deeper analysis: validation, performance, error analysis |
+|   10 | Ethics, limitations, robustness                          |
+|   11 | Writing as thinking: structuring a technical report      |
+|   12 | Sprint Review 3: near-complete results                   |
+|   13 | Refinement: results, visuals, explanations               |
+|   14 | Presentation skills: technical storytelling              |
+|   15 | Final presentations and reflection                       |
 
 *Workload:* approx. 5 hours per week.
 1. Class time = 15 * 1 * 50/60 = 11.25
